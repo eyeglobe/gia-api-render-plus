@@ -61,7 +61,7 @@ $(document).ready(function () {
       debug: true,
       checkout: {
         type: "Google" ,
-        email: "thebelin@thebelin.com"
+        email: "flintadkins@gmail.com"
       },
       // array representing the format and columns of the cart, see 
       // the cart columns documentation
@@ -94,8 +94,8 @@ $(document).ready(function () {
       localDataDom: 'ImaginaryEats',
       memoField:    'menuHash',
       mode:         'live',
-      apiUrl:       'https://script.google.com/macros/s/AKfycbyvb-2gd5IDPf42P2CIS1f8EVesZfPTMZJNCsLyAvDnEnbYdJhb/exec',
-      devUrl:       'https://script.google.com/macros/s/AKfycbwqjwmqASwN0-g0p7dLx_fsqHVc2mpO-e3M00BY8oBB/dev',
+      apiUrl:       'https://script.google.com/macros/s/AKfycbxGGDjOetzHMLhnoBihs2IkEdp2xTOAScBw9d5etSw9QlTuOPw9/exec',
+      devUrl:       'https://script.google.com/macros/s/AKfycbwQzN5DOMd9CwLIgFT0Yh_LR8stQ1hsXqc9vHITPKew/dev',
 
       // Callback function for apiClient button init which executes after render
       initButtons: function() {
